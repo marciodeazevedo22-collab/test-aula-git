@@ -1,0 +1,1 @@
+function soma(a,b){return a+b;}console['\u006C\u006F\u0067'](soma(711238^711236,436493^436494));
