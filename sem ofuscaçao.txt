@@ -1,5 +1,1 @@
-function soma(a, b) {
-  return a + b;
-}
-
-console.log(soma(2, 3));
+document.body.innerHTML = "<h1>Bom dia ☀️</h1>";
